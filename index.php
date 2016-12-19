@@ -12,5 +12,7 @@ and open the template in the editor.
     <body>
         <h1>Projet git isfce DpwWEB</h1>
         <p>lundi 19 dec 2017</p>
+        <h2>Sous-titre</h2>
+        <p>2eme commit</p>
     </body>
 </html>
