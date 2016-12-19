@@ -15,5 +15,6 @@ and open the template in the editor.
         <h2>Sous-titre</h2>
         <p>2eme commit</p>
         HAHAHAHAHAHA 1060 Représente :D 
+        <h1> TEST COMMITE </h1>
     </body>
 </html>
